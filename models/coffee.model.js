@@ -22,9 +22,9 @@ const coffeeSeed=()=>{
     // console.log(coffee)
 }
 
-// module.exports=coffeeModel;
-/*module.exports={
-                coffeeModel,
-                coffeeSeed
-            };
-*/
+module.exports=coffeeModel;
+// module.exports={
+//                 coffeeModel,
+//                 coffeeSeed
+//             };
+

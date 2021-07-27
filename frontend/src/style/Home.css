@@ -1,0 +1,26 @@
+.coffee-container{
+    width: 100%;
+    padding: 1rem;
+    margin: 0;
+}
+.coffee-row{
+    width: 114%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+
+.card-coffee-footer{
+    background: none;
+}
+.card-coffee{
+    width: 15rem;
+    margin: 1rem;
+}
+.card-coffee-img{
+    height: 12rem;
+}
+.fav--btn{
+    margin: 0.5rem;
+}
